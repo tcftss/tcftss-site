@@ -1,0 +1,101 @@
+.episode-list {
+	@include flexbox;
+	@include flex-wrap(wrap);
+	@include media-query($on-palm) {
+		@include justify-content(center);
+	}
+		@include justify-content(space-around);
+}
+.episode-card {
+	width:320px;
+	margin-bottom:($spacing-unit * 3);
+	background:white;
+	border-radius:10px 10px 0 0;
+	@include align-self(center);
+	@include smallShadow;
+
+	.episode-image{
+		border-radius:10px 10px 0 0;
+		margin-bottom:0.2em;
+	}
+	.episode-info {
+		padding:$spacing-unit;
+		.page-heading {
+			font-weight:600;
+			height:46px;
+			font-size:1em;
+			text-align: left;
+			@include flexbox;
+			@include align-items(center);
+		}
+		.episode-record {
+			margin-top:0.3em;
+			.highlight {
+            	background:linear-gradient(transparent 30%, rgba(15,215,80,0.5) 30%);
+        	}
+		}
+	}
+	.episode-download {
+		border-top:1px solid $grey-color-light;
+		padding:($spacing-unit *2) $spacing-unit;
+		a {
+			color:$purple;
+			&:first-child{
+				margin-left:1em;
+			}
+			&:hover, &:focus {
+				text-decoration:none;
+				background:linear-gradient(transparent 30%, rgba(15,215,80,0.5) 30%);
+			}
+	}
+	}
+}
+
+.post-description {
+    margin-top:1em;
+    margin-bottom:2em;
+}
+
+.movie-details {
+    list-style: none;
+    // margin-left:0;
+}
+
+
+.single-episode {
+	@include flexbox;
+	@include flex-direction(row);
+	@include flex-wrap(wrap);
+	@include align-items(center);
+	@include media-query-min($on-laptop) {
+		.episode-image, .movie-details{
+			width:50%;
+			height:100%;
+			margin-left:0;
+		}
+	}
+
+	.movie-details {
+		padding-left:1em;
+		box-sizing:border-box;
+		font-size:18px;
+		margin-bottom:2em;
+		li {
+			margin-bottom:0.3em;
+		}
+		strong {
+				color:$purple;
+		}
+		.highlight {
+			background:linear-gradient(transparent 40%, rgba(15,215,80,0.5) 40%);
+
+		}
+	}
+}
+
+.post-content {
+	.page-heading {
+		margin-top:1em;
+		text-align:left;
+	}
+}

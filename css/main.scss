@@ -1,0 +1,138 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-family: "Open Sans", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     10px;
+
+$text-color:       #111;
+$background-color: #f4f7f9;
+$brand-color:      #2a7ae2;
+$green:            #0FD750;
+$purple:           #511A81;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    1040px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+@mixin media-query-min($device) {
+    @media screen and (min-width: $device) {
+        @content;
+    }
+}
+
+/**FLEXBOX**/
+@mixin flexbox {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+@mixin flex-direction($val) {
+  -webkit-flex-direction: $val;
+  -ms-flex-direction: $val;
+  -moz-flex-direction: $val;
+  flex-direction: $val;
+
+}
+
+@mixin align-items($aVal) {
+  -webkit-align-items: $aVal;
+  -ms-align-items: $aVal;
+  -moz-align-items: $aVal;
+  align-items: $aVal;
+
+}
+
+@mixin justify-content($bVal){
+  -webkit-justify-content: $bVal;
+  -ms-justify-content: $bVal;
+  -moz-justify-content: $bVal;
+  justify-content: $bVal;
+
+}
+
+@mixin order($cVal) {
+  -webkit-box-ordinal-group: $cVal;  
+  -moz-box-ordinal-group: $cVal;     
+  -ms-flex-order: $cVal;     
+  -webkit-order: $cVal;  
+  order: $cVal;
+}
+
+@mixin align-self($dVal) {
+  -webkit-align-self: $dVal;
+  -ms-align-self: $dVal;
+  -moz-align-self: $dVal;
+  align-self: $dVal;
+
+}
+
+@mixin flex-wrap($eVal) {
+  -webkit-flex-wrap: $eVal;
+  -ms-flex-wrap: $eVal;
+  -moz-flex-wrap: $eVal;
+  flex-wrap: $eVal;
+}
+
+
+
+
+/*** SHADOWS ***/
+
+@mixin bigShadow {
+box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.12), 0px 4px 4px 0px rgba(0,0,0,0.24);
+}
+@mixin smallShadow {
+box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.12), 0px 2px 2px 0px rgba(0,0,0,0.24);
+}
+@mixin linkShadow {
+box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.12), 0px 8px 8px 0px rgba(0,0,0,0.24);
+}
+
+
+// Import Open Sans Font
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "home",
+        "hosts",
+        "header",
+        "episode",
+        "footer",
+        "layout"
+;

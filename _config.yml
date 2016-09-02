@@ -1,0 +1,65 @@
+# Site settings
+title: They Came From the Silver Screen
+email: josh@joshtregenza.com
+description: > # this means to ignore newlines until "baseurl:"
+  Film Discussions from the outer reaches. We take on one film a week and get into it and it's cultural relevance. Hosted by Josh Tregenza and Damian Danaher.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://fromthesilverscreen.com" # the base hostname & protocol for your site
+twitter_username: TCFTSS_Pod
+facebook_username:  theycamefromthesilverscreen
+instagram_username: tcftss_pod
+
+# Build settings
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink: :title
+sass:
+    style: :compressed
+
+
+#Gems
+gems: [jekyll-paginate]
+
+
+# Default Settings
+collections:
+  episodes:
+    output: true
+    permalink: /episode/:title/
+
+  hosts:
+    output: true
+    permalink: /hosts/:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "post" # previously `post` in Jekyll 2.2.
+    values:
+      layout: post
+      author: "Josh Tregenza"
+      category: writing
+        
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: page
+      author: "Josh Tregenza"
+
+    scope:
+      path: "episodes"
+      type: episode
+    values:
+      layout: page
+      author: "Josh Tregenza"
+
+    scope:
+      path: "hosts"
+      type: host
+    values:
+      layout: page
+      author: "Josh Tregenza"
+
+    

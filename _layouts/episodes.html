@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+  <div class="single-episode">
+    <img src="{{ site.basurl }}/assets/episode-image/{{ page.image }}" class="episode-image">
+    <ul class="movie-details">
+    	<li>
+    	{% if page.director.size > 1 %}
+    	<strong>Directors: </strong><span class="highlight">{{ page.director | join: ", " }}</span>
+    	{% else %}
+    	<strong>Director: </strong><span class="highlight">{{ page.director }}</span>
+    	{%endif%}
+    	</li>
+    	<li>
+    	{% if page.writer.size > 1 %}
+    	<strong>Writers: </strong><span class="highlight">{{ page.writer | join: ", " }}</span>
+    	{% else %}
+    	<strong>Writer: </strong><span class="highlight">{{ page.writer }}</span>
+    	{% endif %}
+    	</li>
+    	<li><strong>Stars:</strong><span class="highlight">{{ page.stars | join: ", " }}</li></span>
+      <strong>Synopsis: </strong><span class="highlight">{{ page.synopsis }}</span>
+    </ul>
+    <div class="post-content">
+    {{ content }}
+    <h4 class="page-heading">Show Notes</h4>
+    <div class="post-description">{{ page.description }}</div>
+    </div>
+  </div>
+
+<div class="post-pagination">
+{% if page.previous %} 
+          <span class="previous-link">
+            <a rel="prev" href="{{ page.previous.url }}"><< {{ page.previous.title }} </a>
+          </span>
+        {% endif %}
+        {% if page.next %} 
+          <span class="next-link">
+            <a rel="next" href="{{ page.next.url }}"> {{ page.next.title }} >></a>
+          </span>
+        {% endif %}
+ </div>
+
+</article>

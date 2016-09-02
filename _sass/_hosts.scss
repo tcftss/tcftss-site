@@ -1,0 +1,98 @@
+.pod-hosts {
+	@include flexbox;
+	@include justify-content(space-around);
+	@include flex-wrap(wrap);
+	width:100%;
+	list-style: none;
+	margin-left:0;
+	@include media-query($on-palm) {
+		@include flex-direction(column);
+	}
+	li {
+		width:50%;
+		@include media-query($on-laptop) {
+			width:100%;
+		}
+	}
+	.pod-host{
+		margin:1em 2em;
+		max-width: 100%;
+		@include flexbox;
+		@include flex-direction(column);
+		@include justify-content(space-around);
+		@include align-items(center);
+
+	h4 {
+		font-weight:500;
+		font-size:24px;
+		line-height: 42px;
+		color:$purple;
+		margin-top:1em;
+		padding:0em 1em;
+		background:linear-gradient(transparent 40%, rgba(15,215,80,0.5) 40%);
+		@include align-self(flex-start);
+		}
+	}
+}
+.pod-portrait {
+	width:200px;
+	@include align-self(flex-start);
+	// border:10px solid $green;
+	transition:filter 1s ease-in-out;
+    transition:-webkit-filter 1s ease-in-out;
+	&:hover, &:focus {
+		// -webkit-filter:grayscale(100%);
+		// filter:grayscael(100%);
+    	-webkit-filter: hue-rotate(90deg);
+  		filter: hue-rotate(90deg);
+	}
+}
+
+.host-info {
+	@include flexbox;
+	@include justify-content(flex-start);
+	@include align-items(flex-end);
+	width:100%;
+	border-bottom:2px solid $purple;
+	@include media-query($on-palm) {
+		@include flex-direction(column);
+	}
+}
+
+.host-links {
+	width:100%;
+	margin-left:-1em;
+	.social-media-list{
+		@include flexbox;
+		li {
+			padding:0.2em 1em;
+			font-size:18px;
+			width:25%;
+			a {
+				color:$purple;
+				&:hover, &:focus {
+						color:$green;
+					}
+			}
+			svg {
+				    width: 18px;
+    				height: 18px;
+				path{
+					fill:$purple;
+					transition:fill 0.4s ease-in-out;
+					&:hover, &:focus {
+						fill:$green;
+					}
+				}
+			}
+		}
+	}
+}
+
+.host-blurb {
+	padding:2em 1em;
+	background:white;
+	border:1px solid $grey-color-light;
+	box-shadow:0px 2px 2px $grey-color-light;
+}
+

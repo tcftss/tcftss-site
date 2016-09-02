@@ -1,0 +1,9 @@
+.site-footer {
+	@include flexbox;
+	@include align-items(center);
+	.footer-note {
+		color:darken($background-color, 15%);
+		text-align:center;
+	}
+
+}
