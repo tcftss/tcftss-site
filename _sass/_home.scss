@@ -18,6 +18,16 @@
 	.designer-logo {
 		margin-right: auto;
 		margin-left:10px;
+		svg {
+			g {
+				use {
+					transition:all 0.5s ease-in-out;
+						&:focus, &:hover, &:active {
+							fill:$green;
+								}
+							}
+			}	
+		}
 	}
 	.site-nav {
 		font-size:18px;
