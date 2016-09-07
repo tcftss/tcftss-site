@@ -7,6 +7,10 @@ twitter_username:
 instagram: damian_danaher
 portrait: damian-danaher.jpg
 ---
-An exceprt from Damian's article ["Why You need to See Cloud Atlas"](http://www.ddmag.com.au/film/why-you-need-to-see-cloud-atlas/)
+Film is not a passive medium. It's a reciprocal art-form. It asks us to give to it as much as it gives to us. I firmly believe that there is a symbiotic relationship between the viewer and the film - that if we open ourselves and interrogate what we're watching, the film will reward us with a greater understanding of ourselves and where we stand, both in relation to the reality that the movie constructs but also society at large.
 
-*I long ago came to the decision that far worse than a bad movie was a boring movie. Is there anything more reprehensible than witnessing the expenditure of untold hours of labour, untold millions of dollars and realising at the last that it was so lacking in merit or stimulus that you can’t even recall what you just observed? The one thing I can always say about shitty films is that I remember them afterwards. You have to, otherwise how are you going to complain about them in minute detail to your friends? The same friends who of course won’t believe that said film could possibly be “that bad” and will go to see it anyway, thereby providing a completely misleading box-office haul that the suits-that-be will interpret as a pathological need on the public’s part to consume more of this dreck. I’m as guilty as the next man in this regard. My taste is pretty good but everyone is wrong sometimes and others you just end up falling victim to the irresistible allure of the studio advertising machine.*
+From my own experience, every movie I have ever seen has taught me something about myself. Even if it's on a sub-conscious level, the exploration of how film makes us feel, what it wants to make us feel - and the understanding that the two are often not the same thing - engenders a moment of self-realisation.
+
+That's the mission that Josh and I have set ourselves. It's a grand task and the best thing about it all, is that it will never be done.
+
+We hope you enjoy going on this journey with us.
