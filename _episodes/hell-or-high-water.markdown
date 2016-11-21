@@ -19,15 +19,16 @@ description: |
   We talk about ways you can help those that will be affected by the recent events. One way is to donate to some of the organisations that are going to stand up for women's health and the civil liberties for all.
   Both Damian and Josh are pitching in where they can, you can too by making monthly donations to the following organizations:
 
-   [Donate to ACLU](https://action.aclu.org/secure/protect-rights-freedoms-we-believe?s_src=UNW161102OVL&alt_src=UNV161102OVL&ms=web_161109_postelection_lightbox)
+   <a href="https://action.aclu.org/secure/protect-rights-freedoms-we-believe?s_src=UNW161102OVL&alt_src=UNV161102OVL&ms=web_161109_postelection_lightbox">Donate to ACLU</a>
 
-  [Donate to Planned Parenthood](https://www.plannedparenthood.org)
+  <a href="https://www.plannedparenthood.org">Donate to Planned Parenthood</a>
 
-  For those living in Queensland, Australia,  donate to or volunteer with [Children By Choice](https://www.childrenbychoice.org.au/support-us/donate)
+  <a href="https://www.childrenbychoice.org.au/support-us/donate">For those living in Queensland, Australia,  donate to or volunteer with Children By Choice</a>
 
 
 
-  The post credits from this episode referencing an episode of Rick and Morty. [Check out the clip here](https://www.youtube.com/watch?v=ba9k5SWwE38)
+  <a href="https://www.youtube.com/watch?v=ba9k5SWwE38">The post credits from this episode referencing an episode of Rick and Morty.</a>
+...
 ---
 
 <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/53364?style=dark' width='100%'></iframe>
