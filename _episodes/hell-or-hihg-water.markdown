@@ -15,11 +15,7 @@ stars:
 - Gil Birmingham
 image: hell-or-high-water-tcftss.png
 synopsis: "Toby is a divorced father who's trying to make a better life for his son. His brother Tanner is an ex-convict with a short temper and a loose trigger finger. Together, they plan a series of heists against the bank that's about to foreclose on their family ranch. Standing in their way is Marcus, a Texas Ranger who's only weeks away from retirement. As the siblings plot their final robbery, they must also prepare for a showdown with a crafty lawman who's not ready to ride off into the sunset. "
----
-
-<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/42987?style=dark' width='100%'></iframe>
-
-We talk about ways you can help those that will be affected by the recent events. One way is to donate to some of the organisations that are going to stand up for women's health and the civil liberties for all.
+description: "We talk about ways you can help those that will be affected by the recent events. One way is to donate to some of the organisations that are going to stand up for women's health and the civil liberties for all.
 
 You can make monthly donations to the following places:
 
@@ -31,20 +27,7 @@ For those living in Queensland, Australia,  donate to or volunteer with [Childre
 
 Both Damian and Josh are pitching in where they can.
 
-The post credits from this episode referencing an episode of Rick and Morty. [Check out the clip here](https://www.youtube.com/watch?v=ba9k5SWwE38)
+The post credits from this episode referencing an episode of Rick and Morty. [Check out the clip here](https://www.youtube.com/watch?v=ba9k5SWwE38)"
+---
 
-###Intro/Outro Music:###
-
-Danse of Questionable Tuning Kevin MacLeod ([incompetech.com](http://incompetech.com))
-
-Licensed under Creative Commons: By Attribution 3.0 License
-
-http://creativecommons.org/licenses/by/3.0/
-
-###Subscribe to us on iTunes, leave us a review and follow us on social media.###
-
-<a href="https://twitter.com/TCFTSS_Pod">Twitter</a>
-
-<a href="https://www.facebook.com/theycamefromthesilverscreen/">Facebook</a>
-
-<a href="https://www.youtube.com/channel/UCM3s9HvmfVgtHxoDjw4plrQ">Youtube</a>
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/42987?style=dark' width='100%'></iframe>
