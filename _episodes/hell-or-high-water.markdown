@@ -3,7 +3,7 @@ layout: episodes
 title:  "Hell or High Water"
 episode: 15
 date:   2016-11-21
-link: hhttp://audio.simplecast.com/53364.mp3
+link: http://audio.simplecast.com/53364.mp3
 director:
 - David Mackenzie
 writer:
