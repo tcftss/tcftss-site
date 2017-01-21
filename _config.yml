@@ -2,7 +2,7 @@
 title: They Came From the Silver Screen
 email: josh@joshtregenza.com
 description: > # this means to ignore newlines until "baseurl:"
-  Film Discussions from the outer reaches. We take on one film a week and get into it and it's cultural relevance. Hosted by Josh Tregenza and Damian Danaher.
+  Film Discussions from the outer reaches. Each episode deconstructs the societal issues in films and their relationship with the world. Hosted by Josh Tregenza and Damian Danaher.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fromthesilverscreen.com" # the base hostname & protocol for your site
 twitter_username: TCFTSS_Pod
@@ -40,7 +40,7 @@ defaults:
       layout: post
       author: "Josh Tregenza"
       category: writing
-        
+
     scope:
       path: "" # an empty string here means all files in the project
       type: "pages" # previously `post` in Jekyll 2.2.
@@ -61,5 +61,3 @@ defaults:
     values:
       layout: page
       author: "Josh Tregenza"
-
-    
