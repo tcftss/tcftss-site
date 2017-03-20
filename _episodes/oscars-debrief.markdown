@@ -1,5 +1,5 @@
 layout: episodes
-title:  "Oscars Debrief - Manchester by the Sea"
+title:  "Oscars Debrief"
 episode: 20
 date:   2017-03-20
 link: https://audio.simplecast.com/63465.mp3
