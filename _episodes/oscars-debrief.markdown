@@ -1,7 +1,7 @@
 layout: episodes
 title:  "Oscars Debrief"
 episode: 20
-date:   2017-03-20
+date:   2017-03-19
 link: https://audio.simplecast.com/63465.mp3
 director:
 - The Academy
