@@ -11,6 +11,7 @@ instagram_username: tcftss_pod
 
 # Build settings
 markdown: kramdown
+future: true
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: :title
 sass:
