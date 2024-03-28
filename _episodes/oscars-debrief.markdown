@@ -3,7 +3,7 @@ layout: episodes
 title:  "Oscars Debrief"
 episode: 20
 date:   2017-03-19
-link: https://audio.simplecast.com/63465.mp3
+link: https://www.dropbox.com/scl/fi/r9sl5n8plucgs3xv2te5f/oscar-debrief-manchster_mixdown.mp3?rlkey=js9h3y4bld9jxhswy4lp9wfv6&dl=0
 director:
 - The Academy
 writer:
@@ -17,4 +17,4 @@ synopsis: "We foolishly thought we wouldn't have a lot to talk about with the os
 description: "We talk Oscars, the good, the bad and the elephant in the room of Casey Affleck and thus Manchester by the Sea. We get into a lot this episode as a way to see out the end of this cinematic cycle. "
 ---
 
-<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/63465?style=dark' width='100%'></iframe>
+<audio src="https://www.dropbox.com/scl/fi/r9sl5n8plucgs3xv2te5f/oscar-debrief-manchster_mixdown.mp3?rlkey=js9h3y4bld9jxhswy4lp9wfv6&dl=0" controls></audio> 

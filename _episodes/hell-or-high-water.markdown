@@ -3,7 +3,7 @@ layout: episodes
 title:  "Hell or High Water"
 episode: 15
 date:   2016-11-21
-link: http://audio.simplecast.com/53364.mp3
+link: https://www.dropbox.com/scl/fi/h0osjzjw1qxdyqmvknm8g/hell_or_high_water_mixdown.mp3?rlkey=oouj2dcb9pdxoza49ed3drs87&dl=0
 director:
 - David Mackenzie
 writer:
@@ -35,4 +35,4 @@ description: |
 ...
 ---
 
-<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/53364?style=dark' width='100%'></iframe>
+<audio src="https://www.dropbox.com/scl/fi/h0osjzjw1qxdyqmvknm8g/hell_or_high_water_mixdown.mp3?rlkey=oouj2dcb9pdxoza49ed3drs87&dl=0" controls></audio> 

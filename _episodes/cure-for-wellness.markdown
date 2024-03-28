@@ -3,7 +3,7 @@ layout: episodes
 title:  "Cure For Wellness"
 episode: 21
 date:   2017-04-25
-link: https://audio.simplecast.com/67818.mp3
+link: https://www.dropbox.com/scl/fi/1tk2vhufm5m16v3xczixf/cure-for-wellness_mixdown.mp3?rlkey=dgjwm2mquyh20qn3jhb4izjwy&dl=0
 director:
 - Gore Verbinski
 writer:
@@ -17,4 +17,4 @@ synopsis: "A Wall Street stockbroker (Dane DeHaan) travels to a remote location 
 description: "Eels, Water, Big Shining Aesthetics. Gore Verbinski's latest venture is messed up, gory and intense. The crew form Lone Ranger flex their muscles at doing a real film. Damian and Josh get amongst it and get uncomfortable discussion the film and it's various themes. "
 ---
 
-<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/67818?style=dark' width='100%'></iframe>
+<audio src="https://www.dropbox.com/scl/fi/1tk2vhufm5m16v3xczixf/cure-for-wellness_mixdown.mp3?rlkey=dgjwm2mquyh20qn3jhb4izjwy&dl=0" controls></audio> 

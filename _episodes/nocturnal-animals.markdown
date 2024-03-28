@@ -3,7 +3,7 @@ layout: episodes
 title:  "Nocturnal Animals"
 episode: 16
 date:   2016-12-14
-link: https://audio.simplecast.com/55150
+link: https://www.dropbox.com/scl/fi/1oz3iu42h4fqme0o6nhvg/nocturnal_animals_mixdown.mp3?rlkey=c0gk7mnkxg9jl6mo914lr9epv&dl=0
 director:
 - Tom Ford
 writer:
@@ -23,4 +23,4 @@ description: |
 ...
 ---
 
-<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/55150?style=dark' width='100%'></iframe>
+<audio src="https://www.dropbox.com/scl/fi/1oz3iu42h4fqme0o6nhvg/nocturnal_animals_mixdown.mp3?rlkey=c0gk7mnkxg9jl6mo914lr9epv&dl=0" controls></audio> 

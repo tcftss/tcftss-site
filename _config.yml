@@ -4,7 +4,7 @@ email: josh@joshtregenza.com
 description: > # this means to ignore newlines until "baseurl:"
   Film Discussions from the outer reaches. Each episode deconstructs the societal issues in films and their relationship with the world. Hosted by Josh Tregenza and Damian Danaher.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fromthesilverscreen.com" # the base hostname & protocol for your site
+url: "https://podcast.joshtregenza.com" # the base hostname & protocol for your site
 twitter_username: TCFTSS_Pod
 facebook_username:  theycamefromthesilverscreen
 instagram_username: tcftss_pod

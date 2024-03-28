@@ -3,7 +3,7 @@ layout: episodes
 title:  "Jonathan Demme Retrospective | Silence of the Lambs/Philadelphia "
 episode: 22
 date:   2017-05-11
-link: https://audio.simplecast.com/69402.mp3
+link: https://www.dropbox.com/scl/fi/xx0qhj6fra5afpw6mujz2/Episode-22-Jonathan-Demme-Silence-Philidephia_mixdown.mp3?rlkey=nnj2gopyem17icvtwewa08s88&dl=0
 director:
 - Jonathan Demme
 writer:
@@ -19,4 +19,4 @@ synopsis: "Silence of the Lambs is film about a top student at the FBI's trainin
 description: "With the passing of Oscar Winning Director, Jonathan Demme, Damian and Josh take a look at Demme's most famous films, Silence of the Lambs and Philadelphia. Both of these films took on societal issues that are still relevant 23 years on.  "
 ---
 
-<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/69402?style=dark' width='100%'></iframe>
+<audio src="https://www.dropbox.com/scl/fi/xx0qhj6fra5afpw6mujz2/Episode-22-Jonathan-Demme-Silence-Philidephia_mixdown.mp3?rlkey=nnj2gopyem17icvtwewa08s88&dl=0" controls></audio> 

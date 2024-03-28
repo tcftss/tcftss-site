@@ -3,7 +3,7 @@ layout: episodes
 title:  "Lawrence of Arabia"
 episode: 8
 date:   2016-06-30
-link: http://audio.simplecast.com/40835.mp3
+link: https://www.dropbox.com/scl/fi/gkdftv0zj92czym3ql4mg/Lawerence-of-Arabia-Episode-8_mixdown.mp3?rlkey=rsuyfcrcnenwjf5p293gbhs0j&dl=0
 director: 
 - David Lean
 writer: 
@@ -17,4 +17,4 @@ synopsis: "The story of T.E. Lawrence, the English officer who successfully unit
 description: "Lawrence of Arabia is a film that should not have been made, but the stars aligned again and again so that this film could grace us with it's majesty. Damian and Josh talk about the film, it's grandeur and what makes this film so special. "
 ---
 
-<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/40835?style=dark' width='100%'></iframe>
+<audio src="https://www.dropbox.com/scl/fi/gkdftv0zj92czym3ql4mg/Lawerence-of-Arabia-Episode-8_mixdown.mp3?rlkey=rsuyfcrcnenwjf5p293gbhs0j&dl=0" controls></audio> 

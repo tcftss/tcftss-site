@@ -3,7 +3,7 @@ layout: episodes
 title:  "Moonlight"
 episode: 19
 date:   2017-02-6
-link: https://audio.simplecast.com/59638.mp3
+link: https://www.dropbox.com/scl/fi/ty6kzp1tfdyhz6j86siua/moonlight_mixdown.mp3?rlkey=7hwx3h5zctio65k73wizmk4z9&dl=0
 director:
 - Barry Jenkins
 writer:
@@ -22,4 +22,4 @@ synopsis: "A timeless story of human self-discovery and connection, Moonlight ch
 description: "Off the back of a film that people would easily find themselves in, Josh and Damian discuss a film that portrays a life furtherest from their own. Moonlight tells the tale of Chiron throughout his life.  "
 ---
 
-<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/59638?style=dark' width='100%'></iframe>
+<audio src="https://www.dropbox.com/scl/fi/ty6kzp1tfdyhz6j86siua/moonlight_mixdown.mp3?rlkey=7hwx3h5zctio65k73wizmk4z9&dl=0" controls></audio> 
