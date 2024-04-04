@@ -8,8 +8,15 @@ instagram: josh_tregenza
 portrait: josh-tregenza.jpg
 ---
 
-For a few years, I barely saw anything on the silver screen. When I did step into a cinema was when I got a call from Damian twenty minutes before a screening of a film I had barely heard of, asking me to join him in the viewing. He'd come pick me up and play me an album I had never heard before. At that point in my life I was too busy to have a social life and any entertainment I could indulge in usually happened whilst I had my head deep in work. Damian took me out of that den of overworking and help stoke the flames of a medium I love so much.
 
-That was when I was a filmmaker. Now that I'm a designer (This site and all the TCFTSS branding is some of the work I do) I have been able to enjoy films more and more, often taking the time to watch films for the hell of it. This podcast is an ode to not only films and our mutual love of them but also of a friendship that heavily involved film. 
+There was a time where I rarely saw anything on the silver screen. I was a freelance filmmaker and work got in the way. If not for Damian, I would be stuck at my office instead of broadening my mind by watching other's prowess in film. It would be twenty minutes before the last session time of a film I would be hard pressed to recall. Damian would give me a call, pick me up and would play me the latest album of an artist I had never heard of. Damian took me out of that den of overworking and help stoke the flames of a medium I love so much.
+
+Life is different now. I have much more time to enjoy films and can now be found in a late-night screening, watching the latest obscuria. I've gone from filmmaker to designer, in fact, I do the audio editing and all the design things for the podcast. 
+
+They Came from the Silver Screen is an expression of our mutual love of film and the power film has in our society.
+
+Join us as we venture near and far into our cinephilia. 
+
+
 
 

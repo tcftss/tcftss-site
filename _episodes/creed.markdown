@@ -3,7 +3,7 @@ layout: episodes
 title:  "Creed"
 episode: 3
 date:   2016-05-22
-link: http://audio.simplecast.com/38112.mp3
+link: https://www.dropbox.com/scl/fi/78pzy1ef6jmz9fs0s5az2/Creed-Episode-3-They-Came-From-The-Silver-Screen_mixdown.mp3?rlkey=kgl7kxaugr55ynxf0t0xfico5&dl=0
 director: 
 - Ryan Coogler
 writer: 
@@ -18,4 +18,4 @@ synopsis: "The former World Heavyweight Champion Rocky Balboa serves as a traine
 description: "The boys are back and are mixing it up just a little with Ryan Coogler's Creed. We talk about the Rocky Franchise, Creed's community  involvement and we can't get the stench of the DC movie universe off the podcast. "
 ---
 
-<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/38112?style=dark' width='100%'></iframe>
+<audio src="https://www.dropbox.com/scl/fi/78pzy1ef6jmz9fs0s5az2/Creed-Episode-3-They-Came-From-The-Silver-Screen_mixdown.mp3?rlkey=kgl7kxaugr55ynxf0t0xfico5&dl=0" controls></audio> 

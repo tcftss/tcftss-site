@@ -18,6 +18,16 @@
 	.designer-logo {
 		margin-right: auto;
 		margin-left:10px;
+		svg {
+			g {
+				use {
+					transition:all 0.5s ease-in-out;
+						&:focus, &:hover, &:active {
+							fill:$green;
+								}
+							}
+			}	
+		}
 	}
 	.site-nav {
 		font-size:18px;
@@ -127,7 +137,7 @@
 }
 
 .episode-image {
-	border: 5px solid #00a953;
+	border: 5px solid #0FD650;
     border-radius: 10px;
     transition:filter 1s ease-in-out;
     transition:-webkit-filter 1s ease-in-out;
