@@ -1,9 +1,24 @@
 .site-footer {
 	@include flexbox;
-	@include align-items(center);
-	.footer-note {
-		color:darken($background-color, 15%);
-		text-align:center;
+	// @include align-items(center);
+	color:darken($background-color, 15%);
+	text-align:center;
+	p {
+		font-weight:300;
+		font-size:1.3em;
+		letter-spacing: 3px;
+		margin-bottom:0.4em;
+		text-transform: uppercase;
 	}
+	.subscribe-area {
+		ul {
+				@include flexbox;
+				@include flex-direction(row);
+				list-style: none;
+				li {
+					margin:0 1em;
+				}
+			}
 
+	}
 }

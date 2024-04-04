@@ -3,7 +3,7 @@ layout: episodes
 title:  "Man of Steel"
 episode: 2
 date:   2016-04-11
-link: http://audio.simplecast.com/34955.mp3
+link: https://www.dropbox.com/scl/fi/a9ku95slnqbsz4hjxu2xd/man-of-steel.mp3?rlkey=7i5d0dsbzs7791cum098k68wp&dl=0
 director: 
 - Zack Snyder
 writer: 
@@ -17,4 +17,4 @@ synopsis: "Clark Kent, one of the last of an extinguished race disguised as an u
 description: "Damian and Josh finish wrestling with the beast of Warner Brothers , talking about Man of Steel and how it could have been a great film." 
 ---
 
-<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/34955?style=dark' width='100%'></iframe>
+<audio src="https://www.dropbox.com/scl/fi/a9ku95slnqbsz4hjxu2xd/man-of-steel.mp3?rlkey=7i5d0dsbzs7791cum098k68wp&dl=0" controls></audio> 

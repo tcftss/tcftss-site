@@ -263,18 +263,13 @@
 .post-pagination {
     @include flexbox;
     @include justify-content(space-between);
-    @include media-query($on-palm) {
-        @include flex-direction(column);
-    }
+    @include align-items(center);
     a{
         color:$grey-color;
         font-size:$small-font-size;
     }
     .next-link {
         margin-left:auto;
-        @include media-query($on-palm) {
-              margin-top:1em;  
-    }
     }
 }
 

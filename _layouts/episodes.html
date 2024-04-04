@@ -30,20 +30,41 @@ layout: default
     {{ content }}
     <h4 class="page-heading">Show Notes</h4>
     <div class="post-description">{{ page.description }}</div>
+
+    <h4 class="page-heading">Intro/Outro Music:</h4>
+
+    <p>Danse of Questionable Tuning Kevin MacLeod <a href="http://incompetech.com">http://incompetech.com</a> </p>
+
+    <p>Licensed under Creative Commons: By Attribution 3.0 License</p>
+
+    <a href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</a>
+
+    <h4 class="page-heading">Subscribe to us on iTunes, leave us a review and follow us on social media.</h4>
+
+    <a href="https://twitter.com/TCFTSS_Pod">Twitter</a><br/>
+
+    <a href="https://www.facebook.com/theycamefromthesilverscreen/">Facebook</a><br/>
+
+    <a href="https://www.youtube.com/channel/UCM3s9HvmfVgtHxoDjw4plrQ">Youtube</a>
+
     </div>
   </div>
 
 <div class="post-pagination">
-{% if page.previous %} 
+{% if page.previous %}
           <span class="previous-link">
             <a rel="prev" href="{{ page.previous.url }}"><< {{ page.previous.title }} </a>
           </span>
         {% endif %}
-        {% if page.next %} 
+        {% if page.next %}
           <span class="next-link">
             <a rel="next" href="{{ page.next.url }}"> {{ page.next.title }} >></a>
           </span>
         {% endif %}
  </div>
 
+<div class="episode-comments">
+<p>What did you think of {{ page.title }}? Let us know in the comments below.</p>
+ {% include disqus.html %}
+</div>
 </article>
