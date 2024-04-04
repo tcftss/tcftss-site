@@ -1,4 +1,5 @@
-
-.sass-cache/06ae55806e7461c26799f170a9ad63c2e16bc388/_footer.scssc
-
-_site/CNAME
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
