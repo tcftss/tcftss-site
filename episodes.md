@@ -3,17 +3,17 @@ layout: page
 title: Episodes
 permalink: /episodes/
 ---
-<!-- <ul class="pod-list">
+<ul class="pod-list">
 {% assign episodes = site.episodes | sort: 'episode' | reverse %}
 {% for page in episodes %}
-	<li>
+	<li id={{page.title}}>
 	<h4 class="page-heading"> {{ page.title }} | Episode {{ page.episode }} </h4>
 	<a href="{{ page.url | prepend: site.baseurl }}"><img src="{{ site.basurl }}/assets/episode-image/{{ page.image }}" class="episode-image"></a>
 		{{ page.content }}
 		<p class="pod-date"><small> Recorded on {{ page.date | date: '%B %d, %Y' }} </small></p>
 	</li>
 {% endfor %}
-</ul> -->
+</ul>
 
 
 
